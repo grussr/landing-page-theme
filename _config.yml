@@ -26,9 +26,12 @@ permalink: pretty
 # ----------------------- #
 
 social:
-  - title: file-pdf
+  - title: resume
     url: /files/resume.pdf
+    icon: file-pdf
   - title: github
     url: https://github.com/grussr
+    icon: github
   - title: linkedin
     url: https://www.linkedin.com/ryangruss
+    icon: linkedin
