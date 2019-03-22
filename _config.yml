@@ -28,10 +28,10 @@ permalink: pretty
 social:
   - title: resume
     url: /files/resume.pdf
-    icon: file-pdf
+    icon: far fa-file-pdf
   - title: github
     url: https://github.com/grussr
-    icon: github
+    icon: fab fa-github
   - title: linkedin
     url: https://www.linkedin.com/ryangruss
-    icon: linkedin
+    icon: fab fa-linkedin
